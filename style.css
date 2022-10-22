@@ -47,7 +47,7 @@ button:hover {
     color: mediumspringgreen;
     box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
     text-transform: uppercase;
-    font-family: 'Courier New', Courier, monospace;
+    /* font-family: 'Courier New', Courier, monospace; */
 }
 
 #jokeDisplay {
